@@ -1,0 +1,23 @@
+.jumbotron {
+	background: #7F1000;
+	color: white;
+	text-align: center;
+}
+
+.panel-body {
+	background: #CC1900;
+	color: white;
+}
+
+.btn {
+	background: #CC1900;
+	color: white;
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
