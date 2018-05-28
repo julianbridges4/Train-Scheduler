@@ -1,12 +1,18 @@
+body {
+	background: #0370cf;
+}
+
 .jumbotron {
-	background: #7F1000;
+	background: #CC1900;
 	color: white;
 	text-align: center;
+	border: 5px white solid;
 }
 
 .panel-body {
 	background: #CC1900;
 	color: white;
+	border: 5px white solid;
 }
 
 .btn {
